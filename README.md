@@ -1,16 +1,3 @@
-# Project NAME
-
-## Project detail
-Describe the project here.  
-If you need help go to [Markdown template](./MarkdownTemplate.md)
-
-
-## Installation
-
-
-## Run the application
-
-
-## keywords
-This is used for internal usage at LINEACT, fille the keywords
-#keywords:kw1,kw2,kw3,... (TO COMPLETE WITH THE RIGHT KEYWORDs)
+version https://git-lfs.github.com/spec/v1
+oid sha256:53bb5e093c88d76fe8a69bf4dc869ab36b25ff5ed293573b4f41332e93924cbd
+size 327
