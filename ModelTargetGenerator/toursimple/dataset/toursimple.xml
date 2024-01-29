@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="toursimple" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="toursimples_assembly" assemblyId="32cefcc9aeb045bd9603b66a4d793474">
+<Part name="toursimple" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.000594285 -0.000932413 0.00600763" rotation="AD: 0.844016 2.07586 -0.602874 167.94" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

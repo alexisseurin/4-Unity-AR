@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.17.4">
+<ModelTarget name="toursimple" targetId="a6e6e82f1c7d4c9f82b00e6089a7580e" version="14.0" toolVersion="10.17.4" bbox="-0.002976 -0.000001 -0.000001 0.000001 0.001351 0.001317" previewImage="a6e6e82f1c7d4c9f82b00e6089a7580e_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="toursimples_assembly" assemblyId="32cefcc9aeb045bd9603b66a4d793474">
+<Part name="toursimple" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.000594285 -0.000932413 0.00600763" rotation="AD: 0.844016 2.07586 -0.602874 167.94" image="toursimple_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

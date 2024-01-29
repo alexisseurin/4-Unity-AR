@@ -1,0 +1,144 @@
+{
+  "project": {
+    "id": "a6e6e82f1c7d4c9f82b00e6089a7580e",
+    "name": "toursimple",
+    "source": {
+      "file": "C:/Users/josep/OneDrive/Documents/CESI/A5/Option RVRA/RA RV étudiants/04 - Unity RA/Resources/TourNumerique/tour simple.STL",
+      "date": "1704721776843"
+    },
+    "converted": {
+      "file": ".converted/tour simple.pvz",
+      "date": "1705336188338"
+    },
+    "shadow": {
+      "file": ".shadow/tour simple.glb",
+      "date": "1705336188992"
+    },
+    "bubbleGummed": {
+      "file": "",
+      "date": ""
+    },
+    "simplified": {
+      "file": "",
+      "date": ""
+    },
+    "assemblyId": "32cefcc9aeb045bd9603b66a4d793474",
+    "numDraws": 1,
+    "numPolygons": 53670,
+    "bubbleGummingSkipped": false,
+    "isBubbleGummed": false,
+    "originalNumMaterials": 1,
+    "originalNumTextures": 0,
+    "originalNumDraws": 1,
+    "originalNumPolygons": 53670,
+    "realisticTextureDetection": false
+  },
+  "progress": {
+    "skipGuideViewWizard": false,
+    "upVector": 2,
+    "units": 2,
+    "coloring": 2,
+    "simplification": 2,
+    "optimizeTrackingFor": 2
+  },
+  "camera": {
+    "rotation": [
+      0.10504491347773777,
+      0.25835872411579924,
+      0.8896011542665849,
+      0.36169893855701424
+    ],
+    "translation": [
+      0.0032207089474070956,
+      0.0024542936363036736,
+      0.004573578574298141
+    ],
+    "up": [
+      0,
+      0,
+      1
+    ],
+    "target": [
+      0,
+      0,
+      0
+    ]
+  },
+  "views": [
+    {
+      "name": "GuideView_0000",
+      "type": 1,
+      "rating": 5,
+      "guideViewPosition": {
+        "rotation": [
+          0.10504491347773777,
+          0.25835872411579924,
+          0.8896011542665849,
+          0.36169893855701424
+        ],
+        "translation": [
+          0.0032207089474070956,
+          0.0024542936363036736,
+          0.004573578574298141
+        ],
+        "up": [
+          0,
+          0,
+          1
+        ],
+        "target": [
+          0.0014872500896453856,
+          0.0006749659664291956,
+          0.0006575287401705297
+        ]
+      },
+      "targetExtent": null,
+      "recognitionRanges": null,
+      "userVolume": null,
+      "images": [
+        {
+          "type": "edge",
+          "file": "GuideView_0000_2.png"
+        },
+        {
+          "type": "shaded",
+          "file": "GuideView_0000_1.png"
+        }
+      ],
+      "device": 0,
+      "targetExtentPreset": null,
+      "recognitionRangesPreset": null
+    }
+  ],
+  "orbitcontrols": {
+    "target": [
+      0.0014872500896453856,
+      0.0006749659664291956,
+      0.0006575287401705297
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "orbitdetection": {
+    "target": [
+      0.0014872500896453856,
+      0.0006749659664291956,
+      0.0006575287401705297
+    ],
+    "worldUpVector": [
+      0,
+      1,
+      0
+    ]
+  },
+  "simplification": {
+    "progress": "0%"
+  },
+  "uniformScale": 0.001,
+  "optimizeTrackingFor": "low_feature_objects",
+  "realisticAppearance": "false",
+  "version": 7
+}
